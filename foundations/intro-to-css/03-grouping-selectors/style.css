@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+
+.element-one {
+    background-color: #000;
+    color: #fff;
+}
+
+.element-two {
+    background-color: #ffff00;
+}
